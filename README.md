@@ -11,7 +11,7 @@ I'm Zubain Ahmad — a Software Engineer passionate about building scalable syst
 
 ## Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/zubain)
-- 📸 [Instagram](https://www.instagram.com/zubain)
+- 📸 [Instagram](https://www.instagram.com/zubain.ahmad)
 
 
 Thanks for visiting! 😄

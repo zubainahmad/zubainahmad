@@ -4,13 +4,12 @@ I'm Zubain Ahmad — a Software Engineer passionate about building scalable syst
 
 - 🔧 Working with **Java**, **Spring Boot**, **PostgreSQL**, and **AWS**
 - 🐛 Dev by day, debugger by night, explorer always
-- 📝 Sharing thoughts on tech at [Medium](https://medium.com/@your-username)
+- 📝 Sharing thoughts on tech at [Medium](https://medium.com/@thezubainahmad)
 - 🌱 Currently learning: System Design, Cloud Architecture
 - 💬 Ask me about backend development or clean code
 - ⚡ Fun fact: I build stuff... sometimes
 
 ## Let's Connect
-- 📫 [Email](mailto:thezubainahmad@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/zubain)
 
 Thanks for visiting! 😄

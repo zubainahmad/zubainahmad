@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zubainahmad/zubainahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zubain Ahmad — a Software Engineer passionate about building scalable systems, solving real-world problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+- 🔧 Working with **Java**, **Spring Boot**, **PostgreSQL**, and **AWS**
+- 🐛 Dev by day, debugger by night, explorer always
+- 📝 Sharing thoughts on tech at [Medium](https://medium.com/@your-username)
+- 🌱 Currently learning: System Design, Cloud Architecture
+- 💬 Ask me about backend development or clean code
+- ⚡ Fun fact: I build stuff... sometimes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- 📫 [Email](mailto:thezubainahmad@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+Thanks for visiting! 😄
